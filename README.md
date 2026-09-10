@@ -61,6 +61,7 @@ La historia está dividida en diferentes capítulos para facilitar la lectura y 
 ## GitHub Pages
 
 La página será desplegada utilizando GitHub Pages.
+https://github.com/ainaragrcgrc-coder/ex-git-little-red-riding-hood
 
 ## Captura del resultado final
 
